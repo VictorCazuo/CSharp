@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="Estudos C#/Estudos C#.csproj" />
+  <Project Path="exercicios_for/exercicios_for.csproj" Id="5e05d12e-8f72-4ffb-8d15-cb9aab6d69c4" />
+  <Project Path="Exercicios_loop/Exercicios_loop.csproj" Id="33e82e33-e202-48cc-a9fa-577b53027e1c" />
+  <Project Path="Teste/Teste.csproj" Id="47ef2ffd-aa81-453f-8177-fb9e32ff60a6" />
 </Solution>
