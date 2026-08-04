@@ -1,0 +1,18 @@
+<Solution>
+  <Project Path="ConsoleApp1/ExercicioFase2.csproj" Id="9ee9bab1-c298-4843-acc8-a1a8b63b6e6a" />
+  <Project Path="Constantes/Constantes.csproj" Id="c3345956-e6b6-4f1e-a265-22fefc861072" />
+  <Project Path="ConversaoTipos/ConversaoTipos.csproj" Id="ee8f26c5-f138-42db-bc96-dc97cbe660f4" />
+  <Project Path="exercicio/exercicio.csproj" Id="4d770624-578e-4044-90e5-de1b8f77a2d8" />
+  <Project Path="exercicios/exercicios.csproj" Id="a03fbc89-a2c8-4c5a-8ba1-ed5f58de0e9f" />
+  <Project Path="ExerciciosFase1/ExerciciosFase1.csproj" Id="083e4bb0-cac2-4e7a-819a-c71d90d3904f" />
+  <Project Path="Identificadores/Identificadores.csproj" Id="16d478fd-390a-49ac-b98d-63f382bb6fb1" />
+  <Project Path="IncrementoDecremento/IncrementoDecremento.csproj" Id="eb7920c3-8651-4f92-8088-4ea307b421a0" />
+  <Project Path="InferenciaTipos/InferenciaTipos.csproj" Id="0e286876-add8-482c-b342-7b4c09d37cdb" />
+  <Project Path="NullableTypes1/NullableTypes1.csproj" Id="d20241c4-0a3f-471a-bd3e-43bd4a76194f" />
+  <Project Path="OperadoresAritmeticos/OperadoresAritmeticos.csproj" Id="886bc96b-1328-433d-b8cc-b3d8268fc77a" />
+  <Project Path="TipoDateTime1/TipoDateTime1.csproj" Id="9b813794-04f3-418f-a1cc-5acd9e6a3bc1" />
+  <Project Path="TipoDeDados2/TipoDeDados2.csproj" Id="f88f1021-88d3-4e99-94a5-5aca44983291" />
+  <Project Path="TiposDeDados1/TiposDeDados1.csproj" />
+  <Project Path="TiposDeDados3/TiposDeDados3.csproj" Id="6249000e-fd6e-4a20-9b89-ad08a17205c9" />
+  <Project Path="TiposDeDados4/TiposDeDados4.csproj" Id="425696bd-c974-4932-be8a-0036460a1347" />
+</Solution>
