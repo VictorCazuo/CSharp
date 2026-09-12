@@ -1,0 +1,15 @@
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\bin\Debug\net10.0\Catalogo_de_produto.exe
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\bin\Debug\net10.0\Catalogo_de_produto.deps.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\bin\Debug\net10.0\Catalogo_de_produto.runtimeconfig.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\bin\Debug\net10.0\Catalogo_de_produto.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\bin\Debug\net10.0\Catalogo_de_produto.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\obj\Debug\net10.0\Catalogo_de_produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\obj\Debug\net10.0\Catalogo_de_produto.AssemblyInfoInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\obj\Debug\net10.0\Catalogo_de_produto.AssemblyInfo.cs
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\obj\Debug\net10.0\Catalogo_de_produto.csproj.CoreCompileInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\obj\Debug\net10.0\Catalogo_de_produto.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\obj\Debug\net10.0\refint\Catalogo_de_produto.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\obj\Debug\net10.0\Catalogo_de_produto.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\obj\Debug\net10.0\Catalogo_de_produto.genruntimeconfig.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\obj\Debug\net10.0\ref\Catalogo_de_produto.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Catalogo_de_produto\obj\Debug\net10.0\Catalogo.AE6A8440.Up2Date

@@ -1,0 +1,14 @@
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.exe
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.deps.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net10.0\refint\OperadoresAritmeticos.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net10.0\ref\OperadoresAritmeticos.dll

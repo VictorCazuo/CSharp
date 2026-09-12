@@ -1,0 +1,15 @@
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\bin\Debug\net10.0\Simulacao_RPG.exe
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\bin\Debug\net10.0\Simulacao_RPG.deps.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\bin\Debug\net10.0\Simulacao_RPG.runtimeconfig.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\bin\Debug\net10.0\Simulacao_RPG.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\bin\Debug\net10.0\Simulacao_RPG.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\obj\Debug\net10.0\Simulacao_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\obj\Debug\net10.0\Simulacao_RPG.AssemblyInfoInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\obj\Debug\net10.0\Simulacao_RPG.AssemblyInfo.cs
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\obj\Debug\net10.0\Simulacao_RPG.csproj.CoreCompileInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\obj\Debug\net10.0\Simulacao_RPG.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\obj\Debug\net10.0\refint\Simulacao_RPG.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\obj\Debug\net10.0\Simulacao_RPG.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\obj\Debug\net10.0\Simulacao_RPG.genruntimeconfig.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\obj\Debug\net10.0\ref\Simulacao_RPG.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\Simulacao_RPG\obj\Debug\net10.0\Simulaca.52E1A7C2.Up2Date

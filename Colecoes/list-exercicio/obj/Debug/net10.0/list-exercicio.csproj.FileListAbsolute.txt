@@ -1,0 +1,14 @@
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\bin\Debug\net10.0\list-exercicio.exe
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\bin\Debug\net10.0\list-exercicio.deps.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\bin\Debug\net10.0\list-exercicio.runtimeconfig.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\bin\Debug\net10.0\list-exercicio.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\bin\Debug\net10.0\list-exercicio.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\obj\Debug\net10.0\list-exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\obj\Debug\net10.0\list-exercicio.AssemblyInfoInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\obj\Debug\net10.0\list-exercicio.AssemblyInfo.cs
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\obj\Debug\net10.0\list-exercicio.csproj.CoreCompileInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\obj\Debug\net10.0\list-exercicio.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\obj\Debug\net10.0\refint\list-exercicio.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\obj\Debug\net10.0\list-exercicio.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\obj\Debug\net10.0\list-exercicio.genruntimeconfig.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\list-exercicio\obj\Debug\net10.0\ref\list-exercicio.dll

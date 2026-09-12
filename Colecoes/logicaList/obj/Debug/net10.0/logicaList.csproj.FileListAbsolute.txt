@@ -1,0 +1,14 @@
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\bin\Debug\net10.0\logicaList.exe
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\bin\Debug\net10.0\logicaList.deps.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\bin\Debug\net10.0\logicaList.runtimeconfig.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\bin\Debug\net10.0\logicaList.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\bin\Debug\net10.0\logicaList.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\obj\Debug\net10.0\logicaList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\obj\Debug\net10.0\logicaList.AssemblyInfoInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\obj\Debug\net10.0\logicaList.AssemblyInfo.cs
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\obj\Debug\net10.0\logicaList.csproj.CoreCompileInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\obj\Debug\net10.0\logicaList.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\obj\Debug\net10.0\refint\logicaList.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\obj\Debug\net10.0\logicaList.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\obj\Debug\net10.0\logicaList.genruntimeconfig.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\logicaList\obj\Debug\net10.0\ref\logicaList.dll

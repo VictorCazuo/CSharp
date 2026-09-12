@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="../Exercicios/Exercicios.csproj" Id="fd7ac97f-48eb-40c0-8f1f-66c923370bb6" />
+  <Project Path="ArrayBidimensional/ArrayBidimensional.csproj" Id="38652bf5-a4c0-4ed5-a870-d94cd98e778a" />
+  <Project Path="ArrayList/ArrayList.csproj" Id="cc2ddb10-fa81-4a38-9b2f-51d1ed407f69" />
+  <Project Path="Catalogo_de_produto/Catalogo_de_produto.csproj" Id="3a2886be-cbc7-4466-b1bc-2614e916949d" />
+  <Project Path="Colecoes/Colecoes.csproj" />
+  <Project Path="list-exercicio/list-exercicio.csproj" Id="a8b30ea6-25ab-40f4-940a-cde4a52d969f" />
+  <Project Path="Lista/Exercicio_lista.csproj" Id="cb86bafc-0494-4ea4-9a71-eb5fadc4d1e8" />
+  <Project Path="logicaList/logicaList.csproj" Id="dea3e51c-1b2a-4b5d-a409-876dc987d3f3" />
+  <Project Path="Simulacao_RH/Simulacao_RH.csproj" Id="62319012-8bc1-4868-a9ce-56ab80b75f46" />
+  <Project Path="Simulacao_RPG/Simulacao_RPG.csproj" Id="c7f31570-0101-47a4-a011-c92d72239ac5" />
+</Solution>

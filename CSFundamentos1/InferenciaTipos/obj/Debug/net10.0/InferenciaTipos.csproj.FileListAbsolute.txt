@@ -1,0 +1,4 @@
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\InferenciaTipos\obj\Debug\net10.0\InferenciaTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\InferenciaTipos\obj\Debug\net10.0\InferenciaTipos.AssemblyInfoInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\InferenciaTipos\obj\Debug\net10.0\InferenciaTipos.AssemblyInfo.cs
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\InferenciaTipos\obj\Debug\net10.0\InferenciaTipos.csproj.CoreCompileInputs.cache

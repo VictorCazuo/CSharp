@@ -1,0 +1,14 @@
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\bin\Debug\net10.0\TipoDeDados2.exe
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\bin\Debug\net10.0\TipoDeDados2.deps.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\bin\Debug\net10.0\TipoDeDados2.runtimeconfig.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\bin\Debug\net10.0\TipoDeDados2.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\bin\Debug\net10.0\TipoDeDados2.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.AssemblyInfoInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.AssemblyInfo.cs
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\obj\Debug\net10.0\refint\TipoDeDados2.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.genruntimeconfig.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\TipoDeDados2\obj\Debug\net10.0\ref\TipoDeDados2.dll

@@ -1,0 +1,14 @@
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\bin\Debug\net10.0\ArrayBidimensional.exe
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\bin\Debug\net10.0\ArrayBidimensional.deps.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\bin\Debug\net10.0\ArrayBidimensional.runtimeconfig.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\bin\Debug\net10.0\ArrayBidimensional.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\bin\Debug\net10.0\ArrayBidimensional.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\obj\Debug\net10.0\ArrayBidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\obj\Debug\net10.0\ArrayBidimensional.AssemblyInfoInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\obj\Debug\net10.0\ArrayBidimensional.AssemblyInfo.cs
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\obj\Debug\net10.0\ArrayBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\obj\Debug\net10.0\ArrayBidimensional.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\obj\Debug\net10.0\refint\ArrayBidimensional.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\obj\Debug\net10.0\ArrayBidimensional.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\obj\Debug\net10.0\ArrayBidimensional.genruntimeconfig.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\Colecoes\ArrayBidimensional\obj\Debug\net10.0\ref\ArrayBidimensional.dll

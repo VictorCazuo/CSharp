@@ -1,0 +1,14 @@
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\obj\Debug\net10.0\Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\obj\Debug\net10.0\Carro.AssemblyInfoInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\obj\Debug\net10.0\Carro.AssemblyInfo.cs
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\obj\Debug\net10.0\Carro.csproj.CoreCompileInputs.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\bin\Debug\net10.0\Carro.exe
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\bin\Debug\net10.0\Carro.deps.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\bin\Debug\net10.0\Carro.runtimeconfig.json
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\bin\Debug\net10.0\Carro.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\bin\Debug\net10.0\Carro.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\obj\Debug\net10.0\Carro.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\obj\Debug\net10.0\refint\Carro.dll
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\obj\Debug\net10.0\Carro.pdb
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\obj\Debug\net10.0\Carro.genruntimeconfig.cache
+C:\Users\cazuo\OneDrive\Área de Trabalho\C#\CSFundamentos1\Carro\Carro\obj\Debug\net10.0\ref\Carro.dll

@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425696BD-C974-4932-BE8A-0036460A1347}|TiposDeDados4\\TiposDeDados4.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\tiposdedados4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425696BD-C974-4932-BE8A-0036460A1347}|TiposDeDados4\\TiposDeDados4.csproj|solutionrelative:tiposdedados4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6249000E-FD6E-4A20-9B89-AD08A17205C9}|TiposDeDados3\\TiposDeDados3.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\tiposdedados3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6249000E-FD6E-4A20-9B89-AD08A17205C9}|TiposDeDados3\\TiposDeDados3.csproj|solutionrelative:tiposdedados3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69340AB9-57C6-69D8-4A03-B3E9919BE311}|TiposDeDados1\\TiposDeDados1.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69340AB9-57C6-69D8-4A03-B3E9919BE311}|TiposDeDados1\\TiposDeDados1.csproj|solutionrelative:tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88F1021-88D3-4E99-94A5-5ACA44983291}|TipoDeDados2\\TipoDeDados2.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\tipodedados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88F1021-88D3-4E99-94A5-5ACA44983291}|TipoDeDados2\\TipoDeDados2.csproj|solutionrelative:tipodedados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B813794-04F3-418F-A1CC-5ACD9E6A3BC1}|TipoDateTime1\\TipoDateTime1.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B813794-04F3-418F-A1CC-5ACD9E6A3BC1}|TipoDateTime1\\TipoDateTime1.csproj|solutionrelative:tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886BC96B-1328-433D-B8CC-B3D8268FC77A}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886BC96B-1328-433D-B8CC-B3D8268FC77A}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|solutionrelative:operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20241C4-0A3F-471A-BD3E-43BD4A76194F}|NullableTypes1\\NullableTypes1.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\nullabletypes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20241C4-0A3F-471A-BD3E-43BD4A76194F}|NullableTypes1\\NullableTypes1.csproj|solutionrelative:nullabletypes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E286876-ADD8-482C-B342-7B4C09D37CDB}|InferenciaTipos\\InferenciaTipos.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\inferenciatipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E286876-ADD8-482C-B342-7B4C09D37CDB}|InferenciaTipos\\InferenciaTipos.csproj|solutionrelative:inferenciatipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7920C3-8651-4F92-8088-4EA307B421A0}|IncrementoDecremento\\IncrementoDecremento.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\incrementodecremento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7920C3-8651-4F92-8088-4EA307B421A0}|IncrementoDecremento\\IncrementoDecremento.csproj|solutionrelative:incrementodecremento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D478FD-390A-49AC-B98D-63F382BB6FB1}|Identificadores\\Identificadores.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\identificadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D478FD-390A-49AC-B98D-63F382BB6FB1}|Identificadores\\Identificadores.csproj|solutionrelative:identificadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083E4BB0-CAC2-4E7A-819A-C71D90D3904F}|ExerciciosFase1\\ExerciciosFase1.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\exerciciosfase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083E4BB0-CAC2-4E7A-819A-C71D90D3904F}|ExerciciosFase1\\ExerciciosFase1.csproj|solutionrelative:exerciciosfase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03FBC89-A2C8-4C5A-8BA1-ED5F58DE0E9F}|exercicios\\exercicios.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03FBC89-A2C8-4C5A-8BA1-ED5F58DE0E9F}|exercicios\\exercicios.csproj|solutionrelative:exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE9BAB1-C298-4843-ACC8-A1A8B63B6E6A}|ConsoleApp1\\ExercicioFase2.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE9BAB1-C298-4843-ACC8-A1A8B63B6E6A}|ConsoleApp1\\ExercicioFase2.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D770624-578E-4044-90E5-DE1B8F77A2D8}|exercicio\\exercicio.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D770624-578E-4044-90E5-DE1B8F77A2D8}|exercicio\\exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8F26C5-F138-42DB-BC96-DC97CBE660F4}|ConversaoTipos\\ConversaoTipos.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\conversaotipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8F26C5-F138-42DB-BC96-DC97CBE660F4}|ConversaoTipos\\ConversaoTipos.csproj|solutionrelative:conversaotipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3345956-E6B6-4F1E-A265-22FEFC861072}|Constantes\\Constantes.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\constantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3345956-E6B6-4F1E-A265-22FEFC861072}|Constantes\\Constantes.csproj|solutionrelative:constantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE9BAB1-C298-4843-ACC8-A1A8B63B6E6A}|ConsoleApp1\\ExercicioFase2.csproj|c:\\users\\cazuo\\onedrive\\\u00E1rea de trabalho\\c#\\csfundamentos1\\consoleapp1\\exerciciofase2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EE9BAB1-C298-4843-ACC8-A1A8B63B6E6A}|ConsoleApp1\\ExercicioFase2.csproj|solutionrelative:consoleapp1\\exerciciofase2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\IncrementoDecremento\\Program.cs",
+              "RelativeDocumentMoniker": "IncrementoDecremento\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\IncrementoDecremento\\Program.cs",
+              "RelativeToolTip": "IncrementoDecremento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:20:16.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\InferenciaTipos\\Program.cs",
+              "RelativeDocumentMoniker": "InferenciaTipos\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\InferenciaTipos\\Program.cs",
+              "RelativeToolTip": "InferenciaTipos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T12:29:00.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\NullableTypes1\\Program.cs",
+              "RelativeDocumentMoniker": "NullableTypes1\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\NullableTypes1\\Program.cs",
+              "RelativeToolTip": "NullableTypes1\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T18:15:57.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\OperadoresAritmeticos\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresAritmeticos\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\OperadoresAritmeticos\\Program.cs",
+              "RelativeToolTip": "OperadoresAritmeticos\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:54:15.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\TipoDateTime1\\Program.cs",
+              "RelativeDocumentMoniker": "TipoDateTime1\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\TipoDateTime1\\Program.cs",
+              "RelativeToolTip": "TipoDateTime1\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:34:27.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\TipoDeDados2\\Program.cs",
+              "RelativeDocumentMoniker": "TipoDeDados2\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\TipoDeDados2\\Program.cs",
+              "RelativeToolTip": "TipoDeDados2\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T00:10:26.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\TiposDeDados1\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados1\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\TiposDeDados1\\Program.cs",
+              "RelativeToolTip": "TiposDeDados1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T23:51:51.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\TiposDeDados3\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados3\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\TiposDeDados3\\Program.cs",
+              "RelativeToolTip": "TiposDeDados3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T00:36:28.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\TiposDeDados4\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados4\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\TiposDeDados4\\Program.cs",
+              "RelativeToolTip": "TiposDeDados4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T01:14:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\Identificadores\\Program.cs",
+              "RelativeDocumentMoniker": "Identificadores\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\Identificadores\\Program.cs",
+              "RelativeToolTip": "Identificadores\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T00:05:54.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\ExerciciosFase1\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosFase1\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\ExerciciosFase1\\Program.cs",
+              "RelativeToolTip": "ExerciciosFase1\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAqwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T00:20:26.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\exercicios\\Program.cs",
+              "RelativeDocumentMoniker": "exercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\exercicios\\Program.cs",
+              "RelativeToolTip": "exercicios\\Program.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAqwAoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T18:12:37.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAqwMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T18:11:21.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\exercicio\\Program.cs",
+              "RelativeToolTip": "exercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T00:33:06.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\ConversaoTipos\\Program.cs",
+              "RelativeDocumentMoniker": "ConversaoTipos\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\ConversaoTipos\\Program.cs",
+              "RelativeToolTip": "ConversaoTipos\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:45:33.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExercicioFase2.csproj",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\ConsoleApp1\\ExercicioFase2.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ExercicioFase2.csproj",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\ConsoleApp1\\ExercicioFase2.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ExercicioFase2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T01:14:23.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\Constantes\\Program.cs",
+              "RelativeDocumentMoniker": "Constantes\\Program.cs",
+              "ToolTip": "C:\\Users\\cazuo\\OneDrive\\\u00C1rea de Trabalho\\C#\\CSFundamentos1\\Constantes\\Program.cs",
+              "RelativeToolTip": "Constantes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T00:33:30.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
