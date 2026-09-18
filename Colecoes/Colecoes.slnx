@@ -9,4 +9,5 @@
   <Project Path="logicaList/logicaList.csproj" Id="dea3e51c-1b2a-4b5d-a409-876dc987d3f3" />
   <Project Path="Simulacao_RH/Simulacao_RH.csproj" Id="62319012-8bc1-4868-a9ce-56ab80b75f46" />
   <Project Path="Simulacao_RPG/Simulacao_RPG.csproj" Id="c7f31570-0101-47a4-a011-c92d72239ac5" />
+  <Project Path="testesThis/Indexadores.csproj" Id="fb1a4a8f-434a-492a-8b92-decc0c1f81ad" />
 </Solution>

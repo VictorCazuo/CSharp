@@ -10,6 +10,7 @@
   <Project Path="InferenciaTipos/InferenciaTipos.csproj" Id="0e286876-add8-482c-b342-7b4c09d37cdb" />
   <Project Path="NullableTypes1/NullableTypes1.csproj" Id="d20241c4-0a3f-471a-bd3e-43bd4a76194f" />
   <Project Path="OperadoresAritmeticos/OperadoresAritmeticos.csproj" Id="886bc96b-1328-433d-b8cc-b3d8268fc77a" />
+  <Project Path="random/random.csproj" Id="2409af3f-b72b-4b07-8ecb-a9c212579006" />
   <Project Path="TipoDateTime1/TipoDateTime1.csproj" Id="9b813794-04f3-418f-a1cc-5acd9e6a3bc1" />
   <Project Path="TipoDeDados2/TipoDeDados2.csproj" Id="f88f1021-88d3-4e99-94a5-5aca44983291" />
   <Project Path="TiposDeDados1/TiposDeDados1.csproj" />
