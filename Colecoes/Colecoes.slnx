@@ -4,6 +4,7 @@
   <Project Path="ArrayList/ArrayList.csproj" Id="cc2ddb10-fa81-4a38-9b2f-51d1ed407f69" />
   <Project Path="Catalogo_de_produto/Catalogo_de_produto.csproj" Id="3a2886be-cbc7-4466-b1bc-2614e916949d" />
   <Project Path="Colecoes/Colecoes.csproj" />
+  <Project Path="Exercicios_Curso/Exercicios_Curso.csproj" Id="ad38cfb8-cd4f-4fab-94ee-5e0df16511bd" />
   <Project Path="list-exercicio/list-exercicio.csproj" Id="a8b30ea6-25ab-40f4-940a-cde4a52d969f" />
   <Project Path="Lista/Exercicio_lista.csproj" Id="cb86bafc-0494-4ea4-9a71-eb5fadc4d1e8" />
   <Project Path="logicaList/logicaList.csproj" Id="dea3e51c-1b2a-4b5d-a409-876dc987d3f3" />
