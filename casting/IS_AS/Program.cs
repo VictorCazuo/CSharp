@@ -83,3 +83,76 @@ foreach (var i in logsBaguncados)
     }
 }
 
+//Exercício 4 - Carrinho de compras
+Console.WriteLine("\nExercício 4 - Carrinho de compras");
+
+List<Produto> Produtos = new List<Produto>
+{
+    new Livro {Nome = "Metamorfose", Preco = 20, Autor = "Franz Kafka" },
+    new Livro {Nome = "A vida é curta demais para viver o mínimo das coisas", Preco = 26.50m, Autor = "Iandê Albuquerque" },
+    new Eletronico {Nome = "Controle 8bit-do", Preco = 149.99m, MesesGarantia = 3},
+    new Eletronico {Nome = "Nintendo switch", Preco = 1649m, MesesGarantia = 12},
+};
+
+decimal valorTotal = 0;
+decimal valorDesconto = 10;
+
+foreach(var p in Produtos)
+{
+    if (p is Livro livro)
+    {
+        decimal precoComDesconto = livro.Preco - (livro.Preco / valorDesconto);
+        Console.WriteLine($"Desconto aplicado para o livro do autor {livro.Autor}.");
+        valorTotal += precoComDesconto;
+    }
+
+    if (p is Eletronico eletronico)
+    {
+        decimal precoComFrete = eletronico.Preco + 50m;
+        Console.WriteLine($"Frete adicionado. Garantia de {eletronico.MesesGarantia} meses.");
+        valorTotal += precoComFrete;
+    }
+}
+
+Console.WriteLine($"O preço final do seu carrinho é de {valorTotal:C}");
+
+
+//Exercício 5 - Veterinário
+Console.WriteLine("\nExercício 5 - Veterinário");
+
+Cachorro c1 = new Cachorro("Dog");
+Gato g1 = new Gato("Bichano");
+
+RealizarConsulta(c1);
+RealizarConsulta(g1);
+
+static void RealizarConsulta(Pet paciente)
+{
+    Console.WriteLine($"Atendendo o paciente: {paciente.Nome}");
+
+    var cachorro = paciente as Cachorro;
+    var gato = paciente as Gato;
+
+    if (cachorro is not null)
+    {
+        cachorro.MorderOsso();
+    }
+
+    if (gato is not null)
+    {
+        gato.MiarAlto();
+    }
+}
+
+//Exercício 6 - Simulador de Batalha
+Console.WriteLine("\nExercício 6 - Simulador de Batalha");
+
+Personagem jogador1 = new Mago();
+//Guerreiro guerreiroFalso = (Guerreiro)jogador1; Se eu tentar fazer o downcasting tradicional aqui vai dar InvalidCastException
+Guerreiro guerreiroFalso = jogador1 as Guerreiro;
+
+if (guerreiroFalso is null)
+{
+    Console.WriteLine("Casting falhou em segurança, o personagem não era um guerreiro");
+}
+
