@@ -40,6 +40,6 @@ namespace Composicao
             List<Musica> musicaPorArtista = _musicas.FindAll(m => m.Artista == artista);
 
             return musicaPorArtista;
-        }
+        } 
     }
 }

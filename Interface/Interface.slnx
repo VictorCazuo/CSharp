@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Agregacao/Agregacao.csproj" Id="7998e3bb-eb87-4dac-b2dd-dae24f719a28" />
   <Project Path="Composicao/Composicao.csproj" Id="2547345e-cca1-4ed9-b0f7-e53f27cf5ca3" />
   <Project Path="Interface/Interface.csproj" />
 </Solution>
